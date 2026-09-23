@@ -1,14 +1,16 @@
-<h1 align="center">AI Engineer</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=4DA6FF&center=true&vCenter=true&width=800&height=100&lines=Hello+everyone,+I'm+Payal;AI+Engineer" alt="Typing Animation" />
+</div>
 
 <div align="center">
 
 I am an **AI Engineer** based in *Pune, India*. 🐈‍⬛<br>
-A developer obsessed with **Computer Vision**, **Large Language Models**, and building intelligent systems. 🧠<br>
-I strongly believe that *"Algorithms are powerful, but thoughtful architecture makes them magical."* 🪄
+A builder focused on **Machine Learning**, **Generative AI**, and engineering scalable predictive architectures. 📊<br>
+I strongly believe that *"Machines learn from the past, but engineers build the future."* 🚀
 
 <br>
 
-<a href="https://linkedin.com/in/payal-dhumal">
+<a href="https://www.linkedin.com/in/payal-dhumal-22ab413a1">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=40" height="40" />
 </a>
 <a href="https://github.com/Payal-Dhumal">
@@ -28,26 +30,23 @@ I strongly believe that *"Algorithms are powerful, but thoughtful architecture m
 
 ### 💡 Technical Focus
 
-- 🧠 **Architecting Intelligent Systems** — Designing scalable pipelines that turn raw data into actionable, high-performance predictive models.
-- 💬 **Generative AI & LLMs** — Engineering advanced conversational agents and RAG systems with a focus on privacy and low-latency inference.
-- 👁️ **Applied Computer Vision** — Training robust object-detection models to solve complex, real-world problems in medical imaging and sustainability.
-- ⚙️ **End-to-End Deployment** — Bridging the gap between theoretical research and production-ready applications.
+- 🧠 **Intelligent Systems**
+- 💬 **Generative AI & LLMs**
+- 👁️ **Computer Vision**
+- ⚙️ **End-to-End Deployment**
 
 <br><br>
 
 ### 📊 Some stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Payal-Dhumal&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Payal-Dhumal&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-profile-trophy.vercel.app/?username=Payal-Dhumal&theme=radical&row=1&column=4&no-frame=true&no-bg=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Payal-Dhumal&theme=react&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-Dhumal&layout=compact&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Payal-Dhumal&theme=radical&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-Dhumal&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
-
-<br>
-
