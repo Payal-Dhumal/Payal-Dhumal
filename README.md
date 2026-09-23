@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://github.com/Payal-Dhumal.png" align="right" width="180" alt="Profile Picture" />
+<img src="https://github.com/Payal-Dhumal.png" align="left" width="180" hspace="20" style="border-radius: 50%;" alt="Profile Picture" />
 
 I am an **AI Engineer** based in *Pune, India*. 🐈‍⬛<br>
 A builder focused on **Machine Learning**, **Generative AI**, and engineering scalable predictive architectures. 📊<br>
