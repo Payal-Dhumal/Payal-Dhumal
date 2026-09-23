@@ -1,54 +1,53 @@
+<h1 align="center">AI Engineer</h1>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Payal%20Dhumal&fontSize=70&fontAlignY=35&desc=AI%20Engineer&descAlignY=55&descAlign=55&animation=twinkling" alt="Header Banner" />
 
-  <br>
+I am an **AI Engineer** based in *Pune, India*. 🐈‍⬛<br>
+A developer obsessed with **Computer Vision**, **Large Language Models**, and building intelligent systems. 🧠<br>
+I strongly believe that *"Algorithms are powerful, but thoughtful architecture makes them magical."* 🪄
 
-  <p>
-    I am an <b>AI Engineer</b> dedicated to building intelligent, data-driven systems. ⚡<br><br>
-    A developer deeply fascinated by <b>Large Language Models</b>, <b>Computer Vision</b>, and bridging the gap between research and real-world applications. 🌐<br><br>
-    I strongly believe that <i>"Algorithms are powerful, but thoughtful architecture makes them magical."</i> 🪄
-  </p>
+<br>
 
-  <br>
-
-  [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python&logoColor=white)](#)
-  [![PyTorch](https://img.shields.io/badge/-PyTorch-141414?style=flat&logo=pytorch&logoColor=white)](#)
-  [![TensorFlow](https://img.shields.io/badge/-TensorFlow-141414?style=flat&logo=tensorflow&logoColor=white)](#)
-  [![OpenCV](https://img.shields.io/badge/-OpenCV-141414?style=flat&logo=opencv&logoColor=white)](#)
-  [![LangChain](https://img.shields.io/badge/-LangChain-141414?style=flat&logo=chainlink&logoColor=white)](#)
+<a href="https://linkedin.com/in/payal-dhumal">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=40" height="40" />
+</a>
+<a href="https://github.com/Payal-Dhumal">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&height=40" height="40" />
+</a>
+<a href="mailto:payaldhumal94@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=40" height="40" />
+</a>
 
 </div>
 
 <br>
 
-### ✧ Core Expertise
+<div align="right">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="150" />
+</div>
 
-<br>
+### 💡 Technical Focus
 
-- 🧠 **Generative AI & LLMs:** Building conversational agents, deploying local models with RAG architectures, and designing automated content pipelines.
-- 👁️ **Computer Vision:** Training custom architectures (like YOLOv8) for real-time object detection, applied to domains from environmental monitoring to medical imaging.
-- 📊 **Predictive Modeling:** Engineering end-to-end machine learning pipelines for complex classification and regression tasks, including fraud detection and sentiment analysis.
-- ⚙️ **AI Architecture:** Focusing on privacy-centric, low-latency AI integrations—balancing powerful cloud APIs (like Groq) with on-device model deployment.
-
-<br>
-
-<div align="center">
-
-### ✧ Selected Engineering Work
-
-| 🤖 Generative AI & LLMs | 👁️ Computer Vision | 📊 Predictive ML |
-| :--- | :--- | :--- |
-| **[Groq AI Chatbot](https://github.com/Payal-Dhumal/Groq--AI-Chatbot)**<br>Fast inference LLM integration | **[Plastic Waste Detection](https://github.com/Payal-Dhumal/Plastic-Waste-Detection-YOLOv8)**<br>YOLOv8 real-time detection | **[Financial Fraud Detection](https://github.com/Payal-Dhumal/Financial-Fraud_Detection_System)**<br>Anomaly pattern recognition |
-| **[Local LLM Chatbot](https://github.com/Payal-Dhumal/local-llm-chatbot)**<br>On-device model deployment | **[Image Caption Generator](https://github.com/Payal-Dhumal/image-caption-generator)**<br>Vision-language models | **[Trader Sentiment Analysis](https://github.com/Payal-Dhumal/trader-behavior-sentiment-analysis)**<br>Behavioral market predictions |
-| **[AI PPT Generator](https://github.com/Payal-Dhumal/AI-PPT-Generator)**<br>Automated slide creation | **[Dry Eye Disease Analysis](https://github.com/Payal-Dhumal/Dry-Eye-Disease-Analysis)**<br>Medical imaging diagnostics | **[Customer Churn Prediction](https://github.com/Payal-Dhumal/Customer-Churn_Prediction)**<br>User retention modeling |
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Payal-Dhumal&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-Dhumal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%">
+- 🧠 **Architecting Intelligent Systems** — Designing scalable pipelines that turn raw data into actionable, high-performance predictive models.
+- 💬 **Generative AI & LLMs** — Engineering advanced conversational agents and RAG systems with a focus on privacy and low-latency inference.
+- 👁️ **Applied Computer Vision** — Training robust object-detection models to solve complex, real-world problems in medical imaging and sustainability.
+- ⚙️ **End-to-End Deployment** — Bridging the gap between theoretical research and production-ready applications.
 
 <br><br>
 
-<a href="https://github.com/Payal-Dhumal">GitHub</a> • <a href="mailto:payaldhumal94@gmail.com">Email</a>
+### 📊 Some stats
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Payal-Dhumal&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Payal-Dhumal&theme=radical&row=1&column=4&no-frame=true&no-bg=true" width="48%" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Payal-Dhumal&theme=react&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-Dhumal&layout=compact&theme=react&hide_border=true" width="48%" />
+</div>
+
+<br>
+
