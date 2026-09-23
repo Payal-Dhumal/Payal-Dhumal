@@ -39,40 +39,15 @@ I strongly believe that *"Machines learn from the past, but engineers build the 
 
 <br><br>
 
-### 📂 Projects
-
-<div align="center">
-  <a href="https://github.com/Payal-Dhumal/Plastic-Waste-Detection-YOLOv8">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Payal-Dhumal&repo=Plastic-Waste-Detection-YOLOv8&theme=radical&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/Payal-Dhumal/Groq--AI-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Payal-Dhumal&repo=Groq--AI-Chatbot&theme=radical&hide_border=true" width="48%" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Payal-Dhumal/Financial-Fraud_Detection_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Payal-Dhumal&repo=Financial-Fraud_Detection_System&theme=radical&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/Payal-Dhumal/Customer-Churn_Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Payal-Dhumal&repo=Customer-Churn_Prediction&theme=radical&hide_border=true" width="48%" />
-  </a>
-</div>
-
-<br><br>
-
 ### 📊 Some stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Payal-Dhumal&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Payal-Dhumal&theme=radical&row=1&column=4&no-frame=true&no-bg=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Payal-Dhumal&theme=radical&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-Dhumal&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Payal-Dhumal&theme=radical&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Payal-Dhumal&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
-
-<br>
-
