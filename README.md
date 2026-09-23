@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=4DA6FF&center=true&vCenter=true&width=800&height=100&lines=Hello+everyone,+I'm+Payal;AI+Engineer" alt="Typing Animation" />
 </div>
 
-<div align="center">
+<br>
+
+<img src="https://github.com/Payal-Dhumal.png" align="right" width="180" alt="Profile Picture" />
 
 I am an **AI Engineer** based in *Pune, India*. 🐈‍⬛<br>
 A builder focused on **Machine Learning**, **Generative AI**, and engineering scalable predictive architectures. 📊<br>
@@ -20,7 +22,7 @@ I strongly believe that *"Machines learn from the past, but engineers build the 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=40" height="40" />
 </a>
 
-</div>
+<br><br><br>
 
 <br>
 
@@ -46,7 +48,3 @@ I strongly believe that *"Machines learn from the past, but engineers build the 
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Payal-Dhumal&theme=radical&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-Dhumal&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
